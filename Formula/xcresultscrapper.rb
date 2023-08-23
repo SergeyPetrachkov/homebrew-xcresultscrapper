@@ -1,4 +1,4 @@
-class XCResultScrapper < Formula
+class Xcresultscrapper < Formula
     desc "This is a tool that reads XCResult, parses it and produces different reports in different formats"
     homepage "https://github.com/SergeyPetrachkov/XCResultScrapper"
     url "https://github.com/SergeyPetrachkov/XCResultScrapper/files/12417525/xcresultscrapper.tar.gz"
